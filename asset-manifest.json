@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.33b88d1b.chunk.js",
+    "main.js.map": "/static/js/main.33b88d1b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
+    "static/js/2.d308087a.chunk.js": "/static/js/2.d308087a.chunk.js",
+    "static/js/2.d308087a.chunk.js.map": "/static/js/2.d308087a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.23d36ab9c3477e5a3a40ae2c6f7c3fa5.js": "/precache-manifest.23d36ab9c3477e5a3a40ae2c6f7c3fa5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.d308087a.chunk.js.LICENSE.txt": "/static/js/2.d308087a.chunk.js.LICENSE.txt",
+    "static/media/alarmbear.png": "/static/media/alarmbear.d46d7a24.png",
+    "static/media/gambiarrakeyboard.jpg": "/static/media/gambiarrakeyboard.9ae4de4d.jpg",
+    "static/media/gobarber-display.png": "/static/media/gobarber-display.a1f2b376.png",
+    "static/media/me-image.jpg": "/static/media/me-image.e576ee19.jpg",
+    "static/media/places2go.png": "/static/media/places2go.23d6b9ad.png",
+    "static/media/skip.png": "/static/media/skip.5d3c2e18.png",
+    "static/media/songlyrics.png": "/static/media/songlyrics.fa881cca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b3488d1.js",
+    "static/js/2.d308087a.chunk.js",
+    "static/js/main.33b88d1b.chunk.js"
+  ]
+}
