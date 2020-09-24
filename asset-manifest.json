@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.a8bb3908.chunk.js",
-    "main.js.map": "/static/js/main.a8bb3908.chunk.js.map",
+    "main.js": "/static/js/main.afe8f343.chunk.js",
+    "main.js.map": "/static/js/main.afe8f343.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
     "static/js/2.d308087a.chunk.js": "/static/js/2.d308087a.chunk.js",
     "static/js/2.d308087a.chunk.js.map": "/static/js/2.d308087a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.870427db8930b730e79c36b2ad3ec994.js": "/precache-manifest.870427db8930b730e79c36b2ad3ec994.js",
+    "precache-manifest.e5efc56ff58a8d4b39f706dafbd5d2f0.js": "/precache-manifest.e5efc56ff58a8d4b39f706dafbd5d2f0.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.d308087a.chunk.js.LICENSE.txt": "/static/js/2.d308087a.chunk.js.LICENSE.txt",
     "static/media/alarmbear.png": "/static/media/alarmbear.d46d7a24.png",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.6b3488d1.js",
     "static/js/2.d308087a.chunk.js",
-    "static/js/main.a8bb3908.chunk.js"
+    "static/js/main.afe8f343.chunk.js"
   ]
 }
